@@ -187,7 +187,7 @@ See [LICENSE](LICENSE) file for details.
 
 For architecture inquiries, compliance questions, or implementation guidance, please refer to the detailed documentation in the `docs/` directory.
 
-**Contact Session:** [LinkedIn Profile](https://linkedin.com/in/idode-destiny)
+**Contact:** [LinkedIn Profile](https://linkedin.com/in/idode-destiny)
 
 ---
 
