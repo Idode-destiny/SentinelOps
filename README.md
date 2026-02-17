@@ -2,6 +2,8 @@
 
 **Compliance Aware Advisory Infrastructure**
 
+![SentinelOps Thumbnail](docs/images/thumbnail.png)
+
 ![System Context View](docs/images/system_context_view.png)
 
 
