@@ -21,6 +21,12 @@ SentinelOps is a compliance-aware advisory and governance layer designed specifi
 - **Defensible Operations** - Every decision is documented, justified, and auditable
 - **Governance First** - Architecture designed for regulators, not just users
 
+## 🚀 Interactive Demo
+
+Experience SentinelOps governance in action: **[SentinelOps Simulation Demo](https://sentinelops-simulation.vercel.app/)**
+
+This interactive demonstration showcases the complete decision governance flow, from event ingestion through policy evaluation, risk assessment, advisory generation, and human decision recording - all with immutable audit trail verification.
+
 ## Key Capabilities
 
 ### 🛡️ Compliance Governance
