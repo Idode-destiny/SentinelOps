@@ -2,7 +2,7 @@
 
 **Compliance Aware Advisory Infrastructure**
 
-![SentinelOps Thumbnail](docs/images/thumbnail.png)
+
 
 ![System Context View](docs/images/system_context_view.png)
 
@@ -24,7 +24,7 @@ SentinelOps is a compliance-aware advisory and governance layer designed specifi
 - **Governance First** - Architecture designed for regulators, not just users
 
 ## 🚀 Interactive Demo
-
+[![SentinelOps Thumbnail](docs/images/thumbnail.png)](https://sentinelops.io/)
 Experience SentinelOps governance in action: **[SentinelOps Simulation Demo](https://sentinelops-simulation.vercel.app/)**
 
 This interactive demonstration showcases the complete decision governance flow, from event ingestion through policy evaluation, risk assessment, advisory generation, and human decision recording - all with immutable audit trail verification.
